@@ -1,6 +1,6 @@
 # Maupassant
 
-[![Build Status](https://travis-ci.org/tufu9441/maupassant-hexo.svg?branch=master)](https://travis-ci.org/tufu9441/maupassant-hexo)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tufu9441/maupassant-hexo/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/alphafeng/maupassant-hexo.svg?branch=master)](https://travis-ci.org/alphafeng/maupassant-hexo)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/alphafeng/maupassant-hexo/blob/master/LICENSE)
 
 > 大道至简
 
@@ -15,7 +15,7 @@ A simple Hexo template with great performance on different devices, ported from 
 Install theme and renderers:
 
 ```shell
-$ git clone https://github.com/tufu9441/maupassant-hexo.git themes/maupassant
+$ git clone https://github.com/alphafeng/maupassant-hexo.git themes/maupassant
 $ npm install hexo-renderer-pug --save
 $ npm install hexo-renderer-sass --save
 ```
@@ -82,10 +82,10 @@ donate:
   wechat_qr: ## Path of Wechat QRcode image, e.g. /img/WeChatQR.png
   btc_qr: ## Path of Bitcoin QRcode image, e.g. /img/BTCQR.png
   btc_key: ## Bitcoin key, e.g. 1KuK5eK2BLsqpsFVXXSBG5wbSAwZVadt6L
-  paypal_url: ## Paypal URL, e.g. https://www.paypal.me/tufu9441
+  paypal_url: ## Paypal URL, e.g. https://www.paypal.me/alphafeng
 post_copyright:
   enable: false ## If you want to display the copyright info after each post, please set the value to true and fill the following items on your need.
-  author: ## Your author name, e.g. tufu9441
+  author: ## Your author name, e.g. alphafeng
   copyright_text: ## Your copyright text, e.g. The author owns the copyright, please indicate the source reproduced.
 
 menu:
@@ -230,7 +230,7 @@ Seven languages are available for this theme currently: Simplified Chinese (zh-C
 ## Solutions
 - Check whether your Terminal's current directory is in hexo's root directory which contains `source/`, `themes/`, etc.
 
-- If you have any trouble in using this theme, please feel free to open an [issue](https://github.com/tufu9441/maupassant-hexo/issues).
+- If you have any trouble in using this theme, please feel free to open an [issue](https://github.com/alphafeng/maupassant-hexo/issues).
 
 ## Browser Support
 ![Imgur](http://i.imgur.com/iO9L5ty.png)
@@ -241,7 +241,7 @@ All kinds of contributions (enhancements, new features, documentation & code imp
 Looking forward to your pull request.
 
 ## Acknowledgements
-Thanks for all the [contributors](https://github.com/tufu9441/maupassant-hexo/graphs/contributors) of this theme.
+Thanks for all the [contributors](https://github.com/alphafeng/maupassant-hexo/graphs/contributors) of this theme.
 .
 ## Maupassant on other platforms:
 + Typecho：https://github.com/pagecho/maupassant/
